@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1580304293 source:c:\users\asus\desktop\learn code\c++\dictionary_spellchecker\dictionary.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"dictionary.h"
+
+1580304639 c:\users\asus\desktop\learn code\c++\dictionary_spellchecker\dictionary.h
+	<string>
+
+1580304903 source:c:\users\asus\desktop\learn code\c++\dictionary_spellchecker\main_spellchecker.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"dictionary.h"
+
+1580304293 source:c:\users\asus\desktop\learn code\c++\dictionary_spellchecker_project\dictionary_spellchecker\dictionary.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"dictionary.h"
+
+1580304639 c:\users\asus\desktop\learn code\c++\dictionary_spellchecker_project\dictionary_spellchecker\dictionary.h
+	<string>
+
+1580394970 source:c:\users\asus\desktop\learn code\c++\dictionary_spellchecker_project\dictionary_spellchecker\main_spellchecker.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"dictionary.h"
+
